@@ -1,5 +1,7 @@
 Foodie-Sourced License (Version 1.2)
 
+This license applies to what the documentation documents ("the Design"). If you are wondering, the license for the documentation itself is under the [MIT License](https://choosealicense.com/licenses/mit/)
+
 ## **Legal License**
 
 1. Permission is hereby granted, free of charge, to any person obtaining a copy of this software or hardware design and associated documentation files (the "Design"), to deal in the Design without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Design, and to permit persons to whom the Design is furnished to do so, subject to the following conditions:
